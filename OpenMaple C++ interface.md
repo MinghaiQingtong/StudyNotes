@@ -2,7 +2,7 @@
 
 ---
 
-首先，在官方文档ProgrammingGuide.pdf中存在对于OpenMaple的使用描述，本文只是针对C++调用进行总结。
+首先，在官方文档[ProgrammingGuide.pdf](https://www.maplesoft.com/documentation_center/maple2019/ProgrammingGuide.pdf)中存在对于OpenMaple的使用描述，本文只是针对C++调用进行总结。
 
 ##环境配置##
 
